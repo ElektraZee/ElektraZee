@@ -23,6 +23,8 @@ I enjoy turning complex algorithms and shop-floor challenges into clear, usable 
 
 ## 🚀 Featured Projects
 
+### **Upload In Progress**
+<!-- 
 ### **1. Smart Manufacturing Mini-Labs**  
 🔹 MQTT + Node-RED + Python  
 🔹 Real-time dashboards for IoT manufacturing data  
@@ -55,7 +57,7 @@ A forecasting engine for predicting bottlenecks based on production signals.
 ### **5. Digital Scrap Tracking System (Power Platform)**  
 A low-code solution for capturing scrap in real time with analytics-ready output.  
 **→ Repo Coming Soon**
-
+-->
 ---
 ## 📚 Research Interests
 - Multi-product flow optimization automated factories  
