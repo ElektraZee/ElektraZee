@@ -3,7 +3,7 @@
 ### Digital Manufacturing • Operations Research • Manufacturing Research • AI-Driven Optimization • Digital Transformation 
 
 I'm a multidisciplinary engineer focused on building practical, human‑centered digital manufacturing systems.  
-My work blends **Industry 4.0 → X.0**, **optimization modeling**, **AI/ML**, **real‑time data pipelines**, and **TPS-based digital transformation** to help factories improve flow, resilience, and decision‑making.
+My work blends **Industry 4.0 → X.0**, **optimization**, **analytics**, **AI/ML**, **real‑time data pipelines**, and **manufacturing informed digital transformation** to help factories improve flow, resilience, and decision‑making.
 
 I enjoy turning complex algorithms and shop-floor challenges into clear, usable tools — simulations, dashboards, apps, and decision-support systems.
 
@@ -14,10 +14,10 @@ I enjoy turning complex algorithms and shop-floor challenges into clear, usable 
 - **Simulation Modeling** (discrete-event, flow modeling, system design)  
 - **Python for Manufacturing** (Pandas, OR-Tools, NumPy, TensorFlow, Scikit Learn)  
 - **Real-Time Data Systems** (MQTT, Node-RED, sensor data flows)  
-- **AI for Production Systems** (forecasting, bottleneck prediction, anomaly detection)  
-- **Digital Lean & TPS-based transformations**  
+- **AI for Production Systems** (forecasting, bottleneck prediction, anomaly detection)   
 - **App Development** (interactive tools & dashboards)  
 - **CAD + Arduino + Raspberry Pi**
+  <!-- - **Digital Lean & TPS-based transformations**-->
 
 ---
 
